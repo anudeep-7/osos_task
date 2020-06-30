@@ -1,0 +1,64 @@
+
+.menu{
+        position: absolute;
+        right:20px;
+    }
+#myDIV{
+    display:none;
+    position:absolute;
+    border: 3px solid green;
+    top:100px;
+    bottom:20px;
+    left:100px;
+    right:20px;
+}
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+    position: absolute;
+    right:20px;
+    margin:10px;
+  }
+  
+  .button1:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  .button1:active {
+    background-color: blue;
+  }
+#choose{
+    position: absolute;
+    display:none;
+
+}
+.todo{
+    position:absolute;
+    top:10px;
+    left:40%;
+}
+.tab
+{
+    position: absolute;
+    top:130px;
+    left:200px;
+}
+.new{
+    position: absolute;
+    top:100px;
+    left:200px;
+}
+td{
+    padding:5px;
+}
+th{
+    
+    padding:5px;
+}
+.line{
+    text-decoration: line-through;
+}
+#hide{
+    display:none;
+}
